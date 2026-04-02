@@ -1,5 +1,10 @@
 # Finance Dashboard Backend
 
+## 🚀 Features
+- 🔐 Secure Authentication (JWT-based login system)
+- 👥 Role-Based Access Control (Admin/User roles)
+- 💰 Finance Record Management (CRUD operations)
+- 📊 Dashboard with aggregated financial insights
 A RESTful backend API for a Finance Dashboard application with role-based access control, built with **Node.js**, **Express**, and **MongoDB**.
 
 ## Architecture
