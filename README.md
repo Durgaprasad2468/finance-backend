@@ -142,7 +142,7 @@ curl http://localhost:5000/api/dashboard \
 ### Register API
 ![Register](screenshots/02_register.png)
 
-### Login API (Token)
+### Login API
 ![Login](screenshots/03_login_token.png)
 
 ### Get Records
